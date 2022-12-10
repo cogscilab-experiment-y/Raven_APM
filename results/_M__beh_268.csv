@@ -1,0 +1,3 @@
+n,block_type,rt,acc,stimulus,answer,correct_answer
+0,experiment,10.150461400015047,0,1.png,['4'],5
+1,experiment,3.112236099987058,0,2.png,['4'],1

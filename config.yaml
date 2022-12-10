@@ -8,8 +8,8 @@ text_color: black
 text_size: 28
 
 # stimulus
-stimulus_pos: [0, 150]
-stimulus_size: [600, 450]
+stimulus_pos: [0,125]
+stimulus_size: [1200, 900]
 answer_time: 120
 
 
@@ -27,8 +27,8 @@ answers_type: mouse # mouse, keyboard, or text
 answer_size: 56
 answer_color: black
 answer_symbols: {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8} # key is real answer, value is presented symbol
-answer_pos: {1: [-150, -250], 2: [-50, -250], 3: [50, -250], 4: [150, -250],
-             5: [-150, -350], 6: [-50, -350], 7: [50, -350], 8: [150, -350]}
+answer_pos: {1: [-150, -380], 2: [-50, -380], 3: [50, -380], 4: [150, -380],
+             5: [-150, -480], 6: [-50, -480], 7: [50, -480], 8: [150, -480]}
 answer_box_color: green
 answer_box_width: 6
 answer_box_size: 86
@@ -80,6 +80,6 @@ clock_show_time: 7
 
 # timer
 show_timer: true
-timer_pos: [450, 350]
+timer_pos: [750, 400]
 timer_color: black
-timer_size: 40
+timer_size: 60
